@@ -19,14 +19,14 @@
   3sum
 </a></h1>
 
-## 1. 3sum [(leetcode)](https://leetcode.com/problems/3sum)  
+## 1. 3sum [(leetcode)](https://leetcode.com/problems/3sum)  🌀
   ### Условие:  
   
   <img src="tasks/1.png">  
 
   ### [Решение](3sum/3sum/main.py)
 
-## 2. 3sum Closest [(leetcode)](https://leetcode.com/problems/3sum-closest)  
+## 2. 3sum Closest [(leetcode)](https://leetcode.com/problems/3sum-closest)  ❌
   ### Условие:  
   
   <img src="tasks/2.png">  
@@ -37,28 +37,28 @@
   Binary Search
 </a></h1>
 
-## 3. Binary search [(leetcode)](https://leetcode.com/problems/binary-search) 
+## 3. Binary search [(leetcode)](https://leetcode.com/problems/binary-search) ❌
   ### Условие:  
   
   <img src="tasks/3.png">  
 
   ### [Решение](bin_search/binary_search/main.py)
 
-## 4. Find First and Last Position of Element in Sorted Array [(leetcode)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) 
+## 4. Find First and Last Position of Element in Sorted Array [(leetcode)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) ❌
   ### Условие:  
   
   <img src="tasks/4.png">  
 
   ### [Решение](bin_search/find_first_and_last_position_of_element_in_sorted_array/main.py)
 
-## 5. Find K Closest Elements [(leetcode)](https://leetcode.com/problems/find-k-closest-elements)
+## 5. Find K Closest Elements [(leetcode)](https://leetcode.com/problems/find-k-closest-elements)❌‼️
   ### Условие:  
   
   <img src="tasks/5.png">  
 
   ### [Решение](bin_search/find_k_closest_elements/main.py)
 
-## 6. Find Minimum in Rotated Sorted Array [(leetcode)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+## 6. Find Minimum in Rotated Sorted Array [(leetcode)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)❌
   ### Условие:  
   
   <img src="tasks/6.png">  
