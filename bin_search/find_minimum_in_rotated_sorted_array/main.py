@@ -1,16 +1,11 @@
-from typing import List
-
-
-class Solution:
-    def findMin(self, nums: List[int]) -> int:
-        left = 0
-        right = len(nums) - 1
-        while left <= right:
-            mid = (left + right) // 2
-            if nums[left] < nums[right]:
-                return nums[0]
-            if nums[left] < nums[mid]:
-                left = mid + 1
+class Solution(object):
+    def findMin(self, nums):
+        l = 0
+        r = len(nums) - 1
+        while l < r:
+            mid = (l + r) // 2
+            if nums[mid] > nums[r]:
+                l = mid + 1
             else:
-                right = mid - 1
-        return nums[mid]
+                r = mid
+        return nums[l]
