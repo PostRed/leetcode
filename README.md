@@ -26,7 +26,7 @@
 
   ### [Решение](3sum/3sum/main.py)
 
-## 2. 3sum Closest [(leetcode)](https://leetcode.com/problems/3sum-closest)  ❌
+## 2. 3sum Closest [(leetcode)](https://leetcode.com/problems/3sum-closest)  🌀
   ### Условие:  
   
   <img src="tasks/2.png">  
@@ -51,7 +51,7 @@
 
   ### [Решение](bin_search/find_first_and_last_position_of_element_in_sorted_array/main.py)
 
-## 5. Find K Closest Elements [(leetcode)](https://leetcode.com/problems/find-k-closest-elements)❌‼️
+## 5. Find K Closest Elements [(leetcode)](https://leetcode.com/problems/find-k-closest-elements)🌀
   ### Условие:  
   
   <img src="tasks/5.png">  
@@ -65,14 +65,14 @@
 
   ### [Решение](bin_search/find_minimum_in_rotated_sorted_array/main.py)
 
-## 7. Median of Two Sorted Arrays [(leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays)
+## 7. Median of Two Sorted Arrays [(leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays)❌‼️
   ### Условие:  
   
   <img src="tasks/7.png">  
 
   ### [Решение](bin_search/median_of_two_sorted_arrays/main.py)
 
-## 8. Search a 2D Matrix [(leetcode)](https://leetcode.com/problems/search-a-2d-matrix)
+## 8. Search a 2D Matrix [(leetcode)](https://leetcode.com/problems/search-a-2d-matrix) ✅
   ### Условие:  
   
   <img src="tasks/8.png">  
