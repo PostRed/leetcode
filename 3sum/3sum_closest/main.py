@@ -1,19 +1,16 @@
-from typing import List
-
-
-class Solution:
-    def threeSumClosest(self, nums: List[int], target: int) -> List[List[int]]:
+class Solution(object):
+    def threeSumClosest(self, nums, target):
         nums.sort()
-        closest = 1e9
-        for i in range(len(nums) - 2):
+        res = 1e9
+        for i in range(0, len(nums) - 2):
             j = i + 1
             k = len(nums) - 1
             while j < k:
-                sum = nums[i] + nums[j] + nums[k]
-                if sum < target:
-                    j += 1
+                sum3 = nums[i] + nums[j] + nums[k]
+                if abs(sum3 - target) < abs(res - target):
+                    res = sum3
+                if sum3 > target:
+                    k -=1
                 else:
-                    k -= 1
-                if abs(sum - target) < abs(closest - target):
-                    closest = sum
-        return closest
+                    j += 1
+        return res
