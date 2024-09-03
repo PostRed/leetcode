@@ -26,7 +26,7 @@
 
   ### [Решение](3sum/3sum/main.py)
 
-## 2. 3sum Closest [(leetcode)](https://leetcode.com/problems/3sum-closest)  🌀
+## 2. 3sum Closest [(leetcode)](https://leetcode.com/problems/3sum-closest)  ✅
   ### Условие:  
   
   <img src="tasks/2.png">  
