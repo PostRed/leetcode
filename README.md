@@ -44,7 +44,7 @@
 
   ### [Решение](bin_search/binary_search/main.py)
 
-## 4. Find First and Last Position of Element in Sorted Array [(leetcode)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) 🌀
+## 4. Find First and Last Position of Element in Sorted Array [(leetcode)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) ✅
   ### Условие:  
   
   <img src="tasks/4.png">  
@@ -65,7 +65,7 @@
 
   ### [Решение](bin_search/find_minimum_in_rotated_sorted_array/main.py)
 
-## 7. Median of Two Sorted Arrays [(leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays)❌‼️
+## 7. Median of Two Sorted Arrays [(leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays)❌
   ### Условие:  
   
   <img src="tasks/7.png">  
@@ -79,7 +79,7 @@
 
   ### [Решение](bin_search/search_in_2d_matrix/main.py)
 
-## 9. Search in Rotated Sorted Array [(leetcode)](https://leetcode.com/problems/search-in-rotated-sorted-array)
+## 9. Search in Rotated Sorted Array [(leetcode)](https://leetcode.com/problems/search-in-rotated-sorted-array)❌
   ### Условие:  
   
   <img src="tasks/9.png">  
