@@ -213,7 +213,7 @@
   Design
 </a></h1>
 
-## 27. Design an ATM Machine [(leetcode)](https://leetcode.com/problems/design-an-atm-machine)
+## 27. Design an ATM Machine [(leetcode)](https://leetcode.com/problems/design-an-atm-machine) 🌀
   ### Условие:  
   
   <img src="tasks/27.png">  
