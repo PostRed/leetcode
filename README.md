@@ -65,7 +65,7 @@
 
   ### [Решение](bin_search/find_minimum_in_rotated_sorted_array/main.py)
 
-## 7. Median of Two Sorted Arrays [(leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays)❌
+## 7. Median of Two Sorted Arrays [(leetcode)](https://leetcode.com/problems/median-of-two-sorted-arrays)✅
   ### Условие:  
   
   <img src="tasks/7.png">  
@@ -213,21 +213,21 @@
   Design
 </a></h1>
 
-## 27. Design an ATM Machine [(leetcode)](https://leetcode.com/problems/design-an-atm-machine) 🌀
+## 27. Design an ATM Machine [(leetcode)](https://leetcode.com/problems/design-an-atm-machine) ✅
   ### Условие:  
   
   <img src="tasks/27.png">  
 
   ### [Решение](design/design_an_ATM_machine/main.py)
 
-## 28. Design Hit Counter [(leetcode)](https://leetcode.com/problems/design-hit-counter)
+## 28. Design Hit Counter [(leetcode)](https://leetcode.com/problems/design-hit-counter) 🌀
   ### Условие:  
   
   <img src="tasks/28.png">  
 
   ### [Решение](design/design_hit_counter/main.py)
 
-## 29. Flatten Nested List Iterator [(leetcode)](https://leetcode.com/problems/flatten-nested-list-iterator)
+## 29. Flatten Nested List Iterator [(leetcode)](https://leetcode.com/problems/flatten-nested-list-iterator)🌀
   ### Условие:  
   
   <img src="tasks/29.png">  
