@@ -79,7 +79,7 @@
 
   ### [Решение](bin_search/search_in_2d_matrix/main.py)
 
-## 9. Search in Rotated Sorted Array [(leetcode)](https://leetcode.com/problems/search-in-rotated-sorted-array)❌
+## 9. Search in Rotated Sorted Array [(leetcode)](https://leetcode.com/problems/search-in-rotated-sorted-array)✅
   ### Условие:  
   
   <img src="tasks/9.png">  
@@ -90,14 +90,14 @@
   Graphs
 </a></h1>
 
-## 10. Balanced Binary Tree [(leetcode)](https://leetcode.com/problems/balanced-binary-tree)
+## 10. Balanced Binary Tree [(leetcode)](https://leetcode.com/problems/balanced-binary-tree)❌
   ### Условие:  
   
   <img src="tasks/10.png">  
 
   ### [Решение](bin_search/balanced_binary_tree/main.py)
   
-## 11. Binary Tree Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-level-order-traversal)
+## 11. Binary Tree Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-level-order-traversal)❌
   ### Условие:  
   
   <img src="tasks/11.png">  
@@ -234,14 +234,14 @@
 
   ### [Решение](design/flatten_nested_list_iterator/main.py)
 
-## 30. Implement Rand10() Using Rand7() [(leetcode)](https://leetcode.com/problems/implement-rand10-using-rand7)
+## 30. Implement Rand10() Using Rand7() [(leetcode)](https://leetcode.com/problems/implement-rand10-using-rand7)❌
   ### Условие:  
   
   <img src="tasks/30.png">  
 
   ### [Решение](design/implement_rand10()_using_rand7()/main.py)
 
-## 31. Insert Delete GetRandom O(1) [(leetcode)](https://leetcode.com/problems/insert-delete-getrandom-o1)
+## 31. Insert Delete GetRandom O(1) [(leetcode)](https://leetcode.com/problems/insert-delete-getrandom-o1)🌀
   ### Условие:  
   
   <img src="tasks/31.png">  
