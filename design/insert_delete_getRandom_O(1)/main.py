@@ -1,20 +1,18 @@
-import random
-
-
-class RandomizedSet:
+class RandomizedSet(object):
 
     def __init__(self):
         self.dict = {}
         self.data = []
 
-    def insert(self, val: int) -> bool:
+    def insert(self, val):
         if val in self.dict:
             return False
-        self.dict[val] = len(self.data)
         self.data.append(val)
+        self.dict[val] = len(self.data) - 1
         return True
+        
 
-    def remove(self, val: int) -> bool:
+    def remove(self, val):
         if val not in self.dict:
             return False
         last = self.data[-1]
@@ -24,12 +22,7 @@ class RandomizedSet:
         self.data.pop()
         self.dict.pop(val)
         return True
+        
 
-    def getRandom(self) -> int:
+    def getRandom(self):
         return random.choice(self.data)
-
-# Your RandomizedSet object will be instantiated and called as such:
-# obj = RandomizedSet()
-# param_1 = obj.insert(val)
-# param_2 = obj.remove(val)
-# param_3 = obj.getRandom()
