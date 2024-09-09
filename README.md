@@ -130,7 +130,7 @@
   
   <img src="tasks/15.png">  
 
-  ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py))
+  ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py)
 
 ## 16. Lowest Common Ancestor of a Binary Tree [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
   ### Условие:  
