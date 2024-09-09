@@ -51,7 +51,7 @@
 
   ### [Решение](bin_search/find_first_and_last_position_of_element_in_sorted_array/main.py)
 
-## 5. Find K Closest Elements [(leetcode)](https://leetcode.com/problems/find-k-closest-elements)🌀
+## 5. Find K Closest Elements [(leetcode)](https://leetcode.com/problems/find-k-closest-elements)✅
   ### Условие:  
   
   <img src="tasks/5.png">  
@@ -90,47 +90,47 @@
   Graphs
 </a></h1>
 
-## 10. Balanced Binary Tree [(leetcode)](https://leetcode.com/problems/balanced-binary-tree)❌
+## 10. Balanced Binary Tree [(leetcode)](https://leetcode.com/problems/balanced-binary-tree)✅
   ### Условие:  
   
   <img src="tasks/10.png">  
 
   ### [Решение](bin_search/balanced_binary_tree/main.py)
   
-## 11. Binary Tree Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-level-order-traversal)❌
+## 11. Binary Tree Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-level-order-traversal)✅
   ### Условие:  
   
   <img src="tasks/11.png">  
 
   ### [Решение](bin_search/binary_tree_level_order_traversal/main.py)
 
-## 12. Binary Tree Zigzag Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
+## 12. Binary Tree Zigzag Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)🌀
   ### Условие:  
   
   <img src="tasks/12.png">  
 
   ### [Решение](bin_search/binary_tree_level_order_traversal/main.py)
 
-## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)❌
   ### Условие:  
   
   <img src="tasks/13.png">  
 
   ### [Решение](bin_search/binary_tree_maximum_path_sum/main.py)
 
-## 14. Find Duplicate Subtrees [(leetcode)](https://leetcode.com/problems/find-duplicate-subtrees)
+## 14. Find Duplicate Subtrees [(leetcode)](https://leetcode.com/problems/find-duplicate-subtrees)❌
   ### Условие:  
   
   <img src="tasks/14.png">  
 
   ### [Решение](bin_search/find_duplicate_subtrees/main.py)
 
-## 15. Lowest Common Ancestor of a Binary Search Tree [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+## 15. Lowest Common Ancestor of a Binary Search Tree [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)❌
   ### Условие:  
   
   <img src="tasks/15.png">  
 
-  ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_search_tree/main.py)
+  ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py))
 
 ## 16. Lowest Common Ancestor of a Binary Tree [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
   ### Условие:  
@@ -220,21 +220,21 @@
 
   ### [Решение](design/design_an_ATM_machine/main.py)
 
-## 28. Design Hit Counter [(leetcode)](https://leetcode.com/problems/design-hit-counter) 🌀
+## 28. Design Hit Counter [(leetcode)](https://leetcode.com/problems/design-hit-counter) ✅
   ### Условие:  
   
   <img src="tasks/28.png">  
 
   ### [Решение](design/design_hit_counter/main.py)
 
-## 29. Flatten Nested List Iterator [(leetcode)](https://leetcode.com/problems/flatten-nested-list-iterator)🌀
+## 29. Flatten Nested List Iterator [(leetcode)](https://leetcode.com/problems/flatten-nested-list-iterator)✅
   ### Условие:  
   
   <img src="tasks/29.png">  
 
   ### [Решение](design/flatten_nested_list_iterator/main.py)
 
-## 30. Implement Rand10() Using Rand7() [(leetcode)](https://leetcode.com/problems/implement-rand10-using-rand7)❌
+## 30. Implement Rand10() Using Rand7() [(leetcode)](https://leetcode.com/problems/implement-rand10-using-rand7)✅
   ### Условие:  
   
   <img src="tasks/30.png">  
