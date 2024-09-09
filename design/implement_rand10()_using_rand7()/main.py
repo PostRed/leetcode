@@ -2,12 +2,9 @@
 # def rand7():
 # @return a random integer in the range 1 to 7
 
-class Solution:
+class Solution(object):
     def rand10(self):
-        v1 = rand7()
-        v2 = rand7()
-        while v1 > 5:
-            v1 = rand7()
-        while v2 == 7:
-            v2 = rand7()
-        return v1 if v2 < 4 else v1 + 5
+        while True:
+            num = (rand7() - 1) * 7 + rand7()
+            if num <= 40:
+                return num % 10 + 1
