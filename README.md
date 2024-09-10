@@ -1,7 +1,3 @@
-# Задачи с собеседований!
-
-Я разбил задачи на группы по подходам, которые в них используются:  
-
 1. [Задачи про 3 суммы](https://github.com/curlyapollo/leetcode/tree/main/3sum)
 2. [Задачи на бинарный поиск](https://github.com/curlyapollo/leetcode/tree/main/bin_search)
 3. [Задачи на графы](https://github.com/curlyapollo/leetcode/tree/main/binary_tree)
@@ -13,7 +9,6 @@
 9. [Задачи на два указателя](https://github.com/curlyapollo/leetcode/tree/main/two_pointers)
 10. [Остальные задачи)](https://github.com/curlyapollo/leetcode/tree/main/other)
 
-Теперь раскажу про каждую задачу отдельно:
 
 <h1 align="center"><a href="https://github.com/curlyapollo/leetcode/tree/main/3sum">
   3sum
@@ -104,49 +99,49 @@
 
   ### [Решение](bin_search/binary_tree_level_order_traversal/main.py)
 
-## 12. Binary Tree Zigzag Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)🌀
+## 12. Binary Tree Zigzag Level Order Traversal [(leetcode)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)✅
   ### Условие:  
   
   <img src="tasks/12.png">  
 
   ### [Решение](bin_search/binary_tree_level_order_traversal/main.py)
 
-## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)❌
+## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)🌀
   ### Условие:  
   
   <img src="tasks/13.png">  
 
   ### [Решение](bin_search/binary_tree_maximum_path_sum/main.py)
 
-## 14. Find Duplicate Subtrees [(leetcode)](https://leetcode.com/problems/find-duplicate-subtrees)❌
+## 14. Find Duplicate Subtrees [(leetcode)](https://leetcode.com/problems/find-duplicate-subtrees)✅
   ### Условие:  
   
   <img src="tasks/14.png">  
 
   ### [Решение](bin_search/find_duplicate_subtrees/main.py)
 
-## 15. Lowest Common Ancestor of a Binary Search Tree [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)❌
+## 15. Lowest Common Ancestor of a Binary Search Tree 1 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)🌀
   ### Условие:  
   
   <img src="tasks/15.png">  
 
   ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py)
 
-## 16. Lowest Common Ancestor of a Binary Tree [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)❌
   ### Условие:  
   
   <img src="tasks/16.png">  
 
   ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_tree/main.py)
 
-## 17. Lowest Common Ancestor of a Binary Tree III [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
+## 17. Lowest Common Ancestor of a Binary Tree 3 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)🌀
   ### Условие:  
   
   <img src="tasks/17.png">  
 
   ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_tree_III/main.py)
 
-## 18. Maximum Depth of Binary Tree [(leetcode)](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+## 18. Maximum Depth of Binary Tree [(leetcode)](https://leetcode.com/problems/maximum-depth-of-binary-tree)❌
   ### Условие:  
   
   <img src="tasks/18.png">  
