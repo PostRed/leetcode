@@ -106,7 +106,7 @@
 
   ### [Решение](bin_search/binary_tree_level_order_traversal/main.py)
 
-## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)🌀
+## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)🌀‼️
   ### Условие:  
   
   <img src="tasks/13.png">  
@@ -120,42 +120,42 @@
 
   ### [Решение](bin_search/find_duplicate_subtrees/main.py)
 
-## 15. Lowest Common Ancestor of a Binary Search Tree 1 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)🌀
+## 15. Lowest Common Ancestor of a Binary Search Tree 1 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) ✅
   ### Условие:  
   
   <img src="tasks/15.png">  
 
   ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py)
 
-## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)❌
+## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)❌‼️
   ### Условие:  
   
   <img src="tasks/16.png">  
 
   ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_tree/main.py)
 
-## 17. Lowest Common Ancestor of a Binary Tree 3 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)🌀
+## 17. Lowest Common Ancestor of a Binary Tree 3 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)❌‼️
   ### Условие:  
   
   <img src="tasks/17.png">  
 
   ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_tree_III/main.py)
 
-## 18. Maximum Depth of Binary Tree [(leetcode)](https://leetcode.com/problems/maximum-depth-of-binary-tree)❌
+## 18. Maximum Depth of Binary Tree [(leetcode)](https://leetcode.com/problems/maximum-depth-of-binary-tree)🌀
   ### Условие:  
   
   <img src="tasks/18.png">  
 
   ### [Решение](bin_search/maximum_depth_of_binary_tree/main.py)
 
-## 19. Number of Islands [(leetcode)](https://leetcode.com/problems/number-of-islands)
+## 19. Number of Islands [(leetcode)](https://leetcode.com/problems/number-of-islands)❌‼️
   ### Условие:  
   
   <img src="tasks/19.png">  
 
   ### [Решение](bin_search/number_of_islands/main.py)
 
-## 20. Range Sum of BST [(leetcode)](https://leetcode.com/problems/range-sum-of-bst)
+## 20. Range Sum of BST [(leetcode)](https://leetcode.com/problems/range-sum-of-bst)🌀
   ### Условие:  
   
   <img src="tasks/20.png">  
