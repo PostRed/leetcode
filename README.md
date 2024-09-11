@@ -169,7 +169,7 @@
 
   ### [Решение](bin_search/reconstruct_itinerary/main.py)
 
-## 22. Same Tree [(leetcode)](https://leetcode.com/problems/same-tree)
+## 22. Same Tree [(leetcode)](https://leetcode.com/problems/same-tree) 🌀
   ### Условие:  
   
   <img src="tasks/22.png">  
