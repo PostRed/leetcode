@@ -106,7 +106,7 @@
 
   ### [Решение](bin_search/binary_tree_level_order_traversal/main.py)
 
-## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)🌀‼️
+## 13. Binary Tree Maximum Path Sum [(leetcode)](https://leetcode.com/problems/binary-tree-maximum-path-sum)✅
   ### Условие:  
   
   <img src="tasks/13.png">  
@@ -127,14 +127,14 @@
 
   ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py)
 
-## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)❌‼️
+## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)❌
   ### Условие:  
   
   <img src="tasks/16.png">  
 
   ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_tree/main.py)
 
-## 17. Lowest Common Ancestor of a Binary Tree 3 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)❌‼️
+## 17. Lowest Common Ancestor of a Binary Tree 3 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)✅
   ### Условие:  
   
   <img src="tasks/17.png">  
@@ -148,7 +148,7 @@
 
   ### [Решение](bin_search/maximum_depth_of_binary_tree/main.py)
 
-## 19. Number of Islands [(leetcode)](https://leetcode.com/problems/number-of-islands)❌‼️
+## 19. Number of Islands [(leetcode)](https://leetcode.com/problems/number-of-islands)✅
   ### Условие:  
   
   <img src="tasks/19.png">  
@@ -176,7 +176,7 @@
 
   ### [Решение](bin_search/same_tree/main.py)
 
-## 23. Serialize and Deserialize BST [(leetcode)](https://leetcode.com/problems/serialize-and-deserialize-bst)
+## 23. Serialize and Deserialize BST [(leetcode)](https://leetcode.com/problems/serialize-and-deserialize-bst)🌀
   ### Условие:  
   
   <img src="tasks/23.png">  
