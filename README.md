@@ -176,7 +176,7 @@
 
   ### [Решение](bin_search/same_tree/main.py)
 
-## 23. Serialize and Deserialize BST [(leetcode)](https://leetcode.com/problems/serialize-and-deserialize-bst)🌀
+## 23. Serialize and Deserialize BST [(leetcode)](https://leetcode.com/problems/serialize-and-deserialize-bst)❌
   ### Условие:  
   
   <img src="tasks/23.png">  
