@@ -127,7 +127,7 @@
 
   ### [Решение](/binary_tree/lowest_common_ancestor_of_a_binary_search_tree/main.py)
 
-## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)❌
+## 16. Lowest Common Ancestor of a Binary Tree 2 [(leetcode)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)✅
   ### Условие:  
   
   <img src="tasks/16.png">  
@@ -141,7 +141,7 @@
 
   ### [Решение](bin_search/lowest_common_ancestor_of_a_binary_tree_III/main.py)
 
-## 18. Maximum Depth of Binary Tree [(leetcode)](https://leetcode.com/problems/maximum-depth-of-binary-tree)🌀
+## 18. Maximum Depth of Binary Tree [(leetcode)](https://leetcode.com/problems/maximum-depth-of-binary-tree)✅
   ### Условие:  
   
   <img src="tasks/18.png">  
@@ -169,7 +169,7 @@
 
   ### [Решение](bin_search/reconstruct_itinerary/main.py)
 
-## 22. Same Tree [(leetcode)](https://leetcode.com/problems/same-tree) 🌀
+## 22. Same Tree [(leetcode)](https://leetcode.com/problems/same-tree) ❌
   ### Условие:  
   
   <img src="tasks/22.png">  
