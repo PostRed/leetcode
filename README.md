@@ -155,21 +155,21 @@
 
   ### [Решение](bin_search/number_of_islands/main.py)
 
-## 20. Range Sum of BST [(leetcode)](https://leetcode.com/problems/range-sum-of-bst)🌀
+## 20. Range Sum of BST [(leetcode)](https://leetcode.com/problems/range-sum-of-bst)✅
   ### Условие:  
   
   <img src="tasks/20.png">  
 
   ### [Решение](bin_search/range_sum_of_bst/main.py)
 
-## 21. Reconstruct Itinerary [(leetcode)](https://leetcode.com/problems/reconstruct-itinerary)❌
+## 21. Reconstruct Itinerary [(leetcode)](https://leetcode.com/problems/reconstruct-itinerary)✅
   ### Условие:  
   
   <img src="tasks/21.png">  
 
   ### [Решение](bin_search/reconstruct_itinerary/main.py)
 
-## 22. Same Tree [(leetcode)](https://leetcode.com/problems/same-tree) ❌
+## 22. Same Tree [(leetcode)](https://leetcode.com/problems/same-tree) ✅
   ### Условие:  
   
   <img src="tasks/22.png">  
@@ -183,14 +183,14 @@
 
   ### [Решение](bin_search/serialize_and_deserialize_bst/main.py)
 
-## 24. Sum of Left Leaves [(leetcode)](https://leetcode.com/problems/sum-of-left-leaves)🌀
+## 24. Sum of Left Leaves [(leetcode)](https://leetcode.com/problems/sum-of-left-leaves)❌
   ### Условие:  
   
   <img src="tasks/24.png">  
 
   ### [Решение](bin_search/sum_of_left_leaves/main.py)
 
-## 25. Symmetric Tree [(leetcode)](https://leetcode.com/problems/symmetric-tree)❌
+## 25. Symmetric Tree [(leetcode)](https://leetcode.com/problems/symmetric-tree)✅
   ### Условие:  
   
   <img src="tasks/25.png">  
@@ -236,7 +236,7 @@
 
   ### [Решение](design/implement_rand10()_using_rand7()/main.py)
 
-## 31. Insert Delete GetRandom O(1) [(leetcode)](https://leetcode.com/problems/insert-delete-getrandom-o1)🌀
+## 31. Insert Delete GetRandom O(1) [(leetcode)](https://leetcode.com/problems/insert-delete-getrandom-o1)✅
   ### Условие:  
   
   <img src="tasks/31.png">  
