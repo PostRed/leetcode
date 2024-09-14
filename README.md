@@ -282,21 +282,21 @@
   Linked lists
 </a></h1>
 
-## 37. Add Two Numbers [(leetcode)](https://leetcode.com/problems/add-two-numbers)
+## 37. Add Two Numbers [(leetcode)](https://leetcode.com/problems/add-two-numbers)❌
   ### Условие:  
   
   <img src="tasks/37.png">  
 
   ### [Решение](linked_lists/add_two_numbers/main.py)
 
-## 38. Linked List Cycle [(leetcode)](https://leetcode.com/problems/linked-list-cycle)
+## 38. Linked List Cycle [(leetcode)](https://leetcode.com/problems/linked-list-cycle)❌
   ### Условие:  
   
   <img src="tasks/38.png">  
 
   ### [Решение](linked_lists/linked_list_cycle/main.py)
 
-## 39. Merge k Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-k-sorted-lists)
+## 39. Merge k Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-k-sorted-lists)❌
   ### Условие:  
   
   <img src="tasks/39.png">  
