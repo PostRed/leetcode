@@ -22,19 +22,4 @@ class Solution:
             data[len(data) - n - 1].next = data[len(data) - n + 1]
         else:
             data[len(data) - n - 1].next = None
-        data.pop(-n)
         return data[0]
-
-    def another(self, head, n):
-        dummy = ListNode()
-        dummy.next = head
-
-        pnt1, pnt2 = dummy, head
-        for _ in range(n):
-            pnt2 = pnt2.next
-
-        while pnt2:
-            pnt1, pnt2 = pnt1.next, pnt2.next
-
-        pnt1.next = pnt1.next.next
-        return dummy.next
