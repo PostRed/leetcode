@@ -176,14 +176,14 @@
 
   ### [Решение](bin_search/same_tree/main.py)
 
-## 23. Serialize and Deserialize BST [(leetcode)](https://leetcode.com/problems/serialize-and-deserialize-bst)❌
+## 23. Serialize and Deserialize BST [(leetcode)](https://leetcode.com/problems/serialize-and-deserialize-bst)✅
   ### Условие:  
   
   <img src="tasks/23.png">  
 
   ### [Решение](bin_search/serialize_and_deserialize_bst/main.py)
 
-## 24. Sum of Left Leaves [(leetcode)](https://leetcode.com/problems/sum-of-left-leaves)❌
+## 24. Sum of Left Leaves [(leetcode)](https://leetcode.com/problems/sum-of-left-leaves)✅
   ### Условие:  
   
   <img src="tasks/24.png">  
@@ -197,7 +197,7 @@
 
   ### [Решение](bin_search/symmetric_tree/main.py)
 
-## 26. Validate Binary Search Tree [(leetcode)](https://leetcode.com/problems/validate-binary-search-tree)❌
+## 26. Validate Binary Search Tree [(leetcode)](https://leetcode.com/problems/validate-binary-search-tree)✅
   ### Условие:  
   
   <img src="tasks/26.png">  
@@ -282,7 +282,7 @@
   Linked lists
 </a></h1>
 
-## 37. Add Two Numbers [(leetcode)](https://leetcode.com/problems/add-two-numbers)❌
+## 37. Add Two Numbers [(leetcode)](https://leetcode.com/problems/add-two-numbers)✅
   ### Условие:  
   
   <img src="tasks/37.png">  
@@ -296,14 +296,14 @@
 
   ### [Решение](linked_lists/linked_list_cycle/main.py)
 
-## 39. Merge k Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-k-sorted-lists)❌
+## 39. Merge k Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-k-sorted-lists)
   ### Условие:  
   
   <img src="tasks/39.png">  
 
   ### [Решение](linked_lists/merge_k_sorted_lists/main.py)
 
-## 40. Merge Two Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-two-sorted-lists)
+## 40. Merge Two Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-two-sorted-lists)❌
   ### Условие:  
   
   <img src="tasks/40.png">  
