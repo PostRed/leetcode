@@ -289,14 +289,14 @@
 
   ### [Решение](linked_lists/add_two_numbers/main.py)
 
-## 38. Linked List Cycle [(leetcode)](https://leetcode.com/problems/linked-list-cycle)🌀
+## 38. Linked List Cycle [(leetcode)](https://leetcode.com/problems/linked-list-cycle)✅
   ### Условие:  
   
   <img src="tasks/38.png">  
 
   ### [Решение](linked_lists/linked_list_cycle/main.py)
 
-## 39. Merge k Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-k-sorted-lists)🌀
+## 39. Merge k Sorted Lists [(leetcode)](https://leetcode.com/problems/merge-k-sorted-lists)✅
   ### Условие:  
   
   <img src="tasks/39.png">  
@@ -317,14 +317,14 @@
 
   ### [Решение](linked_lists/palindrome_linked_list/main.py)
 
-## 42. Remove Nth Node From End of List [(leetcode)](https://leetcode.com/problems/remove-nth-node-from-end-of-list)🌀
+## 42. Remove Nth Node From End of List [(leetcode)](https://leetcode.com/problems/remove-nth-node-from-end-of-list)✅
   ### Условие:  
   
   <img src="tasks/42.png">  
 
   ### [Решение](linked_lists/remove_Nth_node_from_end_of_list/main.py)
 
-## 43. Reverse Linked List [(leetcode)](https://leetcode.com/problems/reverse-linked-list)🌀
+## 43. Reverse Linked List [(leetcode)](https://leetcode.com/problems/reverse-linked-list)✅
   ### Условие:  
   
   <img src="tasks/43.png">  
