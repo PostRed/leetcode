@@ -310,7 +310,7 @@
 
   ### [Решение](linked_lists/merge_two_sorted_lists/main.py)
 
-## 41. Palindrome Linked List [(leetcode)](https://leetcode.com/problems/palindrome-linked-list)🌀
+## 41. Palindrome Linked List [(leetcode)](https://leetcode.com/problems/palindrome-linked-list)✅
   ### Условие:  
   
   <img src="tasks/41.png">  
@@ -335,35 +335,35 @@
   Prefix sum
 </a></h1>
 
-## 44. Continuous Subarray Sum [(leetcode)](https://leetcode.com/problems/continuous-subarray-sum)
+## 44. Continuous Subarray Sum [(leetcode)](https://leetcode.com/problems/continuous-subarray-sum)🌀
   ### Условие:  
   
   <img src="tasks/44.png">  
 
   ### [Решение](prefix_sum/continious_subarray_sum/main.py)
 
-## 45. Maximum Subarray [(leetcode)](https://leetcode.com/problems/maximum-subarray)
+## 45. Maximum Subarray [(leetcode)](https://leetcode.com/problems/maximum-subarray)✅
   ### Условие:  
   
   <img src="tasks/45.png">  
 
   ### [Решение](prefix_sum/maximum_subarray/main.py)
 
-## 46. Product of Array Except Self [(leetcode)](https://leetcode.com/problems/product-of-array-except-self)
+## 46. Product of Array Except Self [(leetcode)](https://leetcode.com/problems/product-of-array-except-self)🌀
   ### Условие:  
   
   <img src="tasks/46.png">  
 
   ### [Решение](prefix_sum/product_of_array_except_self/main.py)
 
-## 47. Subarray Sum Equals K [(leetcode)](https://leetcode.com/problems/subarray-sum-equals-k)
+## 47. Subarray Sum Equals K [(leetcode)](https://leetcode.com/problems/subarray-sum-equals-k)🌀
   ### Условие:  
   
   <img src="tasks/47.png">  
 
   ### [Решение](prefix_sum/subarray_sum_equals_k/main.py)
 
-## 48. Subarray Sums Divisible by K [(leetcode)](https://leetcode.com/problems/subarray-sums-divisible-by-k)
+## 48. Subarray Sums Divisible by K [(leetcode)](https://leetcode.com/problems/subarray-sums-divisible-by-k)🌀
   ### Условие:  
   
   <img src="tasks/48.png">  
