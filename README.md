@@ -335,7 +335,7 @@
   Prefix sum
 </a></h1>
 
-## 44. Continuous Subarray Sum [(leetcode)](https://leetcode.com/problems/continuous-subarray-sum)🌀
+## 44. Continuous Subarray Sum [(leetcode)](https://leetcode.com/problems/continuous-subarray-sum)✅
   ### Условие:  
   
   <img src="tasks/44.png">  
@@ -349,14 +349,14 @@
 
   ### [Решение](prefix_sum/maximum_subarray/main.py)
 
-## 46. Product of Array Except Self [(leetcode)](https://leetcode.com/problems/product-of-array-except-self)🌀
+## 46. Product of Array Except Self [(leetcode)](https://leetcode.com/problems/product-of-array-except-self)✅
   ### Условие:  
   
   <img src="tasks/46.png">  
 
   ### [Решение](prefix_sum/product_of_array_except_self/main.py)
 
-## 47. Subarray Sum Equals K [(leetcode)](https://leetcode.com/problems/subarray-sum-equals-k)🌀
+## 47. Subarray Sum Equals K [(leetcode)](https://leetcode.com/problems/subarray-sum-equals-k)✅
   ### Условие:  
   
   <img src="tasks/47.png">  
