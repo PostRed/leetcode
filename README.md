@@ -406,7 +406,7 @@
   String
 </a></h1>
 
-## 53. Consecutive Characters [(leetcode)](https://leetcode.com/problems/consecutive-characters)
+## 53. Consecutive Characters [(leetcode)](https://leetcode.com/problems/consecutive-characters)🌀
   ### Условие:  
   
   <img src="tasks/53.png">  
@@ -420,7 +420,7 @@
 
   ### [Решение](string/find_all_anagrams_in_a_string/main.py)
 
-## 55. Find the Index of the First Occurrence in a String [(leetcode)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+## 55. Find the Index of the First Occurrence in a String [(leetcode)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)🌀
   ### Условие:  
   
   <img src="tasks/55.png">  
