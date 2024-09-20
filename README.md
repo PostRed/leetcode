@@ -363,7 +363,7 @@
 
   ### [Решение](prefix_sum/subarray_sum_equals_k/main.py)
 
-## 48. Subarray Sums Divisible by K [(leetcode)](https://leetcode.com/problems/subarray-sums-divisible-by-k)🌀
+## 48. Subarray Sums Divisible by K [(leetcode)](https://leetcode.com/problems/subarray-sums-divisible-by-k)✅
   ### Условие:  
   
   <img src="tasks/48.png">  
@@ -374,28 +374,28 @@
   Stack
 </a></h1>
 
-## 49. Evaluate Reverse Polish Notation [(leetcode)](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+## 49. Evaluate Reverse Polish Notation [(leetcode)](https://leetcode.com/problems/evaluate-reverse-polish-notation)✅
   ### Условие:  
   
   <img src="tasks/49.png">  
 
   ### [Решение](stack/evaluate_reverse_polish_notation/main.py)
 
-## 50. Maximal Rectangle [(leetcode)](https://leetcode.com/problems/maximal-rectangle)
+## 50. Maximal Rectangle [(leetcode)](https://leetcode.com/problems/maximal-rectangle)❌
   ### Условие:  
   
   <img src="tasks/50.png">  
 
   ### [Решение](stack/maximal_rectangle/main.py)
 
-## 51. Simplify Path [(leetcode)](https://leetcode.com/problems/simplify-path)
+## 51. Simplify Path [(leetcode)](https://leetcode.com/problems/simplify-path)✅
   ### Условие:  
   
   <img src="tasks/51.png">  
 
   ### [Решение](stack/simplify_path/main.py)
 
-## 52. Valid Parentheses [(leetcode)](https://leetcode.com/problems/valid-parentheses)
+## 52. Valid Parentheses [(leetcode)](https://leetcode.com/problems/valid-parentheses)✅
   ### Условие:  
   
   <img src="tasks/52.png">  
