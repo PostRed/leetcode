@@ -455,7 +455,7 @@
 
   ### [Решение](string/longest_palindromic_substring/main.py)
 
-## 60. Longest Repeating Character Replacement [(leetcode)](https://leetcode.com/problems/longest-repeating-character-replacement)
+## 60. Longest Repeating Character Replacement [(leetcode)](https://leetcode.com/problems/longest-repeating-character-replacement)🌀
   ### Условие:  
   
   <img src="tasks/60.png">  
