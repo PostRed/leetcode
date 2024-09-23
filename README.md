@@ -406,28 +406,28 @@
   String
 </a></h1>
 
-## 53. Consecutive Characters [(leetcode)](https://leetcode.com/problems/consecutive-characters)🌀
+## 53. Consecutive Characters [(leetcode)](https://leetcode.com/problems/consecutive-characters)✅
   ### Условие:  
   
   <img src="tasks/53.png">  
 
   ### [Решение](string/consecutive_characters/main.py)
 
-## 54. Find All Anagrams in a String [(leetcode)](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+## 54. Find All Anagrams in a String [(leetcode)](https://leetcode.com/problems/find-all-anagrams-in-a-string)✅
   ### Условие:  
   
   <img src="tasks/54.png">  
 
   ### [Решение](string/find_all_anagrams_in_a_string/main.py)
 
-## 55. Find the Index of the First Occurrence in a String [(leetcode)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)🌀
+## 55. Find the Index of the First Occurrence in a String [(leetcode)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)✅
   ### Условие:  
   
   <img src="tasks/55.png">  
 
   ### [Решение](string/find_the_index_of_the_first_occurrence_in_a_string/main.py)
 
-## 56. First Unique Character in a String [(leetcode)](https://leetcode.com/problems/first-unique-character-in-a-string)
+## 56. First Unique Character in a String [(leetcode)](https://leetcode.com/problems/first-unique-character-in-a-string)✅
   ### Условие:  
   
   <img src="tasks/56.png">  
