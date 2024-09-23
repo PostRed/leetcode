@@ -434,21 +434,21 @@
 
   ### [Решение](string/first_unique_character_in_string/main.py)
 
-## 57. Is Subsequence [(leetcode)](https://leetcode.com/problems/is-subsequence)
+## 57. Is Subsequence [(leetcode)](https://leetcode.com/problems/is-subsequence)🌀
   ### Условие:  
   
   <img src="tasks/57.png">  
 
   ### [Решение](string/is_subsequence/main.py)
 
-## 58. Isomorphic Strings [(leetcode)](https://leetcode.com/problems/isomorphic-strings)
+## 58. Isomorphic Strings [(leetcode)](https://leetcode.com/problems/isomorphic-strings)🌀
   ### Условие:  
   
   <img src="tasks/58.png">  
 
   ### [Решение](string/isomorphic_strings/main.py)
 
-## 59. Longest Palindromic Substring [(leetcode)](https://leetcode.com/problems/longest-palindromic-substring)
+## 59. Longest Palindromic Substring [(leetcode)](https://leetcode.com/problems/longest-palindromic-substring)🌀
   ### Условие:  
   
   <img src="tasks/59.png">  
