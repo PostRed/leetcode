@@ -1,25 +1,20 @@
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
-        i = 0
-        j = 0
+    def lengthOfLongestSubstring(self, s):
+        left = 0
         ans = 0
         distincts = 0
         hist = {}
-        while j < len(s):
-            if s[j] in hist:
-                hist[s[j]] += 1
+        for right in range(len(s)):
+            if s[right] in hist:
+                hist[s[right]] += 1
             else:
-                hist[s[j]] = 1
+                hist[s[right]] = 1
                 distincts += 1
-            while distincts > 2:
-                hist[s[i]] -= 1
-                if hist[s[i]] == 0:
-                    hist.pop(s[i])
+            # Если в строке больше двух уникальных элементов - сдвигаем левую границу
+            if distincts > 2:
+                hist[s[left]] -= 1
+                if hist[s[left]] == 0:
                     distincts -= 1
-                i += 1
-            ans = max(ans, j - i + 1)
-            j += 1
+                left += 1
+            ans = max(ans, right - left + 1)
         return ans
-
-
-print(Solution().lengthOfLongestSubstring("ccaabbb"))
