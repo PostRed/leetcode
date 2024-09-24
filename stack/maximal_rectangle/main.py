@@ -1,32 +1,50 @@
-from typing import List
+class Solution(object):
+    def maximalRectangle(self, matrix):
+        """
+        :type matrix: List[List[str]]
+        :rtype: int
+        """
+        if not matrix or not matrix[0]:
+            return 0
 
-
-class Solution:
-    # у нас идея: перебирать места обрывов столбцов это a-й столбец, для этого m + 1 в height,
-    # чтобы последний обрывающий столбец был уже вне, и мы считали всю матрицу
-    def maximalRectangle(self, matrix: List[List[str]]) -> int:
         cols = len(matrix[0])
-        height = [0] * (cols + 1)
+        hist = [0] * (cols + 1)  # добавляем один элемент для удобства
         res = 0
+
         for row in matrix:
-            for i in range(cols):
-                if row[i] == "1":
-                    height[i] += 1
+            for i in range(len(matrix[0])):
+                # Обновляем высоту для текущего столбца
+                if row[i] == '1':
+                    hist[i] += 1
                 else:
-                    height[i] = 0
-            stack = [-1]
-            for a in range(cols + 1):
-                # удаляем столбцы до нас больше нас
-                # в стеке только возрастающий порядок, тк добавляя новый столбец, удаляем все, больше него
-                # по асимптотике: мы один раз добавляем и один раз удаляем каждый столбец
-                while height[a] < height[stack[-1]]:
-                    h = height[stack.pop()]
-                    w = a - stack[-1] - 1
-                    res = max(res, h * w)
-                stack.append(a)
+                    hist[i] = 0
+            # Находим максимальную площадь для текущей "гистограммы"
+            res = max(res, self.largestRectangleArea(hist))
+
         return res
 
-# асимптотика O(mn), так как в среднем вайл работает два раза, так как один раз удаляем, один раз добавляем
+    def largestRectangleArea(self, hist):
+        """
+        :type hist: List[int]
+        :rtype: int
+        """
+        stack = []
+        res = 0
 
-matrix = [["1", "0"], ["1", "0"],["1", "0"],["1", "0"],["1", "0"],["1", "0"],["1", "0"],["1", "0"],["1", "1"], ["1", "1"]]
-print(Solution().maximalRectangle(matrix))
+        for i in range(len(hist)):
+            # Пока стек не пуст и текущая высота меньше высоты на вершине стека
+            while stack and hist[stack[-1]] > hist[i]:
+                # Высота прямоугольника равна высоте, соответствующей этому индексу
+                h = hist[stack.pop()]
+
+                # Если стек пуст, это означает, что текущая высота является самой низкой до текущего индекса
+                if not stack:
+                    w = i  # Ширина равна текущему индексу (все столбцы до i)
+                else:
+                    # Ширина равна разнице между текущим индексом и индексом на вершине стека минус 1
+                    w = i - stack[-1] - 1
+
+                res = max(res, h * w)
+            stack.append(i)
+
+        return res
