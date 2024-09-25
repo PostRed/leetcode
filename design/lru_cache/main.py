@@ -22,6 +22,7 @@ class LRUCache:
         node.next.prev = node.prev
 
     def insert(self, node):
+        # делаем node предпоследний
         node.prev = self.last.prev
         node.next = self.last
         node.prev.next = node
@@ -29,6 +30,7 @@ class LRUCache:
 
     def get(self, key: int) -> int:
         if key in self.cache:
+            # обращаясь к элементу - делаем предпоследним, чтобы в начале остались элементы, к которым мало обращаются
             self.remove(self.cache[key])
             self.insert(self.cache[key])
             return self.cache[key].value
@@ -38,15 +40,9 @@ class LRUCache:
         if key in self.cache:
             self.remove(self.cache[key])
         self.cache[key] = Node(key, value)
+        # делаем элемент предпоследним
         self.insert(self.cache[key])
         if len(self.cache) > self.cap:
-            first = self.first.next
+            help = self.first.next
             self.remove(self.first.next)
-            del self.cache[first.key]
-
-
-
-# Your LRUCache object will be instantiated and called as such:
-# obj = LRUCache(capacity)
-# param_1 = obj.get(key)
-# obj.put(key,value)
+            del self.cache[help.key]
