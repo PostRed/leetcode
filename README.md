@@ -381,7 +381,7 @@
 
   ### [Решение](stack/evaluate_reverse_polish_notation/main.py)
 
-## 50. Maximal Rectangle [(leetcode)](https://leetcode.com/problems/maximal-rectangle)🌀
+## 50. Maximal Rectangle [(leetcode)](https://leetcode.com/problems/maximal-rectangle)✅
   ### Условие:  
   
   <img src="tasks/50.png">  
@@ -462,21 +462,21 @@
 
   ### [Решение](string/longest_repeating_character_replacement/main.py)
 
-## 61. Longest Substring with At Most Two Distinct Characters [(leetcode)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)🌀
+## 61. Longest Substring with At Most Two Distinct Characters [(leetcode)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)✅
   ### Условие:  
   
   <img src="tasks/61.png">  
 
   ### [Решение](string/longest_substring_with_at_most_two_distinct_characters/main.py)
 
-## 62. Longest Substring Without Repeating Characters [(leetcode)](https://leetcode.com/problems/longest-substring-without-repeating-characters)🌀
+## 62. Longest Substring Without Repeating Characters [(leetcode)](https://leetcode.com/problems/longest-substring-without-repeating-characters)✅
   ### Условие:  
   
   <img src="tasks/62.png">  
 
   ### [Решение](string/longest_substring_without_repeating_characters/main.py)
 
-## 63. Multiply Strings [(leetcode)](https://leetcode.com/problems/multiply-strings)🌀
+## 63. Multiply Strings [(leetcode)](https://leetcode.com/problems/multiply-strings)✅
   ### Условие:  
   
   <img src="tasks/63.png">  
