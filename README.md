@@ -243,7 +243,7 @@
 
   ### [Решение](design/insert_delete_getRandom_O(1)/main.py)
 
-## 32. LRU Cache [(leetcode)](https://leetcode.com/problems/lru-cache)🌀
+## 32. LRU Cache [(leetcode)](https://leetcode.com/problems/lru-cache)✅
   ### Условие:  
   
   <img src="tasks/32.png">  
@@ -483,21 +483,21 @@
 
   ### [Решение](string/multiply_strings/main.py)
 
-## 64. One Edit Distance [(leetcode)](https://leetcode.com/problems/one-edit-distance)🌀
+## 64. One Edit Distance [(leetcode)](https://leetcode.com/problems/one-edit-distance)✅
   ### Условие:  
   
   <img src="tasks/64.png">  
 
   ### [Решение](string/one_edit_distance/main.py)
 
-## 65. Partition Labels [(leetcode)](https://leetcode.com/problems/partition-labels)🌀
+## 65. Partition Labels [(leetcode)](https://leetcode.com/problems/partition-labels)✅
   ### Условие:  
   
   <img src="tasks/65.png">  
 
   ### [Решение](string/partition_labels/main.py)
 
-## 66. Permutation in String [(leetcode)](https://leetcode.com/problems/permutation-in-string)🌀
+## 66. Permutation in String [(leetcode)](https://leetcode.com/problems/permutation-in-string)✅
   ### Условие:  
   
   <img src="tasks/66.png">  
