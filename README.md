@@ -250,7 +250,7 @@
 
   ### [Решение](design/lru_cache/main.py)
 
-## 33. Max Stack [(leetcode)](https://leetcode.com/problems/max-stack)
+## 33. Max Stack [(leetcode)](https://leetcode.com/problems/max-stack)🌀
   ### Условие:  
   
   <img src="tasks/33.png">  
@@ -504,21 +504,21 @@
 
   ### [Решение](string/permutation_in_string/main.py)
 
-## 67. Reverse Words in a String III [(leetcode)](https://leetcode.com/problems/reverse-words-in-a-string-iii)
+## 67. Reverse Words in a String III [(leetcode)](https://leetcode.com/problems/reverse-words-in-a-string-iii)🌀
   ### Условие:  
   
   <img src="tasks/67.png">  
 
   ### [Решение](string/reverse_words_in_a_string_III/main.py)
 
-## 68. String Compression [(leetcode)](https://leetcode.com/problems/string-compression)
+## 68. String Compression [(leetcode)](https://leetcode.com/problems/string-compression)🌀
   ### Условие:  
   
   <img src="tasks/68.png">  
 
   ### [Решение](string/string_compression/main.py)
 
-## 69. Valid Anagram [(leetcode)](https://leetcode.com/problems/valid-anagram)
+## 69. Valid Anagram [(leetcode)](https://leetcode.com/problems/valid-anagram)🌀
   ### Условие:  
   
   <img src="tasks/69.png">  
