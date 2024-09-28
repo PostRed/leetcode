@@ -257,7 +257,7 @@
 
   ### [Решение](design/max_stack/main.py)
 
-## 34. Number of Recent Calls [(leetcode)](https://leetcode.com/problems/number-of-recent-calls)
+## 34. Number of Recent Calls [(leetcode)](https://leetcode.com/problems/number-of-recent-calls)🌀
   ### Условие:  
   
   <img src="tasks/34.png">  
@@ -525,14 +525,14 @@
 
   ### [Решение](string/valid_anagram/main.py)
 
-## 70. Valid Palindrome [(leetcode)](https://leetcode.com/problems/valid-palindrome)
+## 70. Valid Palindrome [(leetcode)](https://leetcode.com/problems/valid-palindrome)🌀
   ### Условие:  
   
   <img src="tasks/70.png">  
 
   ### [Решение](string/valid_palindrome/main.py)
 
-## 71. Valid Palindrome II [(leetcode)](https://leetcode.com/problems/valid-palindrome-ii)
+## 71. Valid Palindrome II [(leetcode)](https://leetcode.com/problems/valid-palindrome-ii)🌀
   ### Условие:  
   
   <img src="tasks/71.png">  
@@ -543,7 +543,7 @@
   Two pointers
 </a></h1>
 
-## 72. Best Time to Buy and Sell Stock [(leetcode)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+## 72. Best Time to Buy and Sell Stock [(leetcode)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)🌀
   ### Условие:  
   
   <img src="tasks/72.png">  
