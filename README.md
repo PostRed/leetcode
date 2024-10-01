@@ -264,7 +264,7 @@
 
   ### [Решение](design/number_of_recent_calls/main.py)
 
-## 35. Implement Queue using Stacks [(leetcode)](https://leetcode.com/problems/implement-queue-using-stacks)🌀
+## 35. Implement Queue using Stacks [(leetcode)](https://leetcode.com/problems/implement-queue-using-stacks)✅
   ### Условие:  
   
   <img src="tasks/35.png">  
@@ -550,14 +550,14 @@
 
   ### [Решение](two_pointers/best_time_to_buy_and_sell_stock/main.py)
 
-## 73. Container With Most Water [(leetcode)](https://leetcode.com/problems/container-with-most-water)🌀
+## 73. Container With Most Water [(leetcode)](https://leetcode.com/problems/container-with-most-water)✅
   ### Условие:  
   
   <img src="tasks/73.png">  
 
   ### [Решение](two_pointers/container_with_most_water/main.py)
 
-## 74. Longest Subarray of 1's After Deleting One Element [(leetcode)](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)🌀
+## 74. Longest Subarray of 1's After Deleting One Element [(leetcode)](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)✅
   ### Условие:  
   
   <img src="tasks/74.png">  
