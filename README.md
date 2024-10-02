@@ -578,7 +578,7 @@
 
   ### [Решение](two_pointers/max_consecutive_ones_III/main.py)
 
-## 77. Product of Two Run-Length Encoded Arrays [(leetcode)](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays)
+## 77. Product of Two Run-Length Encoded Arrays [(leetcode)](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays)🌀
   ### Условие:  
   
   <img src="tasks/77.png">  
@@ -592,21 +592,21 @@
 
   ### [Решение](two_pointers/remove_duplicates_from_sorted_array/main.py)
 
-## 79. Shortest Unsorted Continuous Subarray [(leetcode)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)
+## 79. Shortest Unsorted Continuous Subarray [(leetcode)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)🌀
   ### Условие:  
   
   <img src="tasks/79.png">  
 
   ### [Решение](two_pointers/shortest_unsorted_continuous_subarray/main.py)
 
-## 80. Squares of a Sorted Array [(leetcode)](https://leetcode.com/problems/squares-of-a-sorted-array)
+## 80. Squares of a Sorted Array [(leetcode)](https://leetcode.com/problems/squares-of-a-sorted-array)🌀
   ### Условие:  
   
   <img src="tasks/80.png">  
 
   ### [Решение](two_pointers/squares_of_a_sorted_array/main.py)
 
-## 81. Summary Ranges [(leetcode)](https://leetcode.com/problems/summary-ranges)
+## 81. Summary Ranges [(leetcode)](https://leetcode.com/problems/summary-ranges)🌀
   ### Условие:  
   
   <img src="tasks/81.png">  
