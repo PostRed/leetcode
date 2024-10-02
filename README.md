@@ -271,7 +271,7 @@
 
   ### [Решение](design/queue_using_stacks/main.py)
 
-## 36. Zigzag Iterator [(leetcode)](https://leetcode.com/problems/zigzag-iterator)🌀
+## 36. Zigzag Iterator [(leetcode)](https://leetcode.com/problems/zigzag-iterator)✅
   ### Условие:  
   
   <img src="tasks/36.png">  
@@ -564,14 +564,14 @@
 
   ### [Решение](two_pointers/longest_subarray_of_1's_after_deleting_one_element/main.py)
 
-## 75. Max Consecutive Ones II [(leetcode)](https://leetcode.com/problems/max-consecutive-ones-ii)🌀
+## 75. Max Consecutive Ones II [(leetcode)](https://leetcode.com/problems/max-consecutive-ones-ii)✅
   ### Условие:  
   
   <img src="tasks/75.png">  
 
   ### [Решение](two_pointers/max_consecutive_ones_II/main.py)
 
-## 76. Max Consecutive Ones III [(leetcode)](https://leetcode.com/problems/max-consecutive-ones-iii)🌀
+## 76. Max Consecutive Ones III [(leetcode)](https://leetcode.com/problems/max-consecutive-ones-iii)✅
   ### Условие:  
   
   <img src="tasks/76.png">  
@@ -585,7 +585,7 @@
 
   ### [Решение](two_pointers/product_of_two_run_length_encoded_arrays/main.py)
 
-## 78. Remove Duplicates from Sorted Array [(leetcode)](https://leetcode.com/problems/remove-duplicates-from-sorted-array)🌀
+## 78. Remove Duplicates from Sorted Array [(leetcode)](https://leetcode.com/problems/remove-duplicates-from-sorted-array)✅
   ### Условие:  
   
   <img src="tasks/78.png">  
