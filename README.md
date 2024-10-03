@@ -613,14 +613,14 @@
 
   ### [Решение](two_pointers/summary_ranges/main.py)
 
-## 82. Trapping Rain Water [(leetcode)](https://leetcode.com/problems/trapping-rain-water)
+## 82. Trapping Rain Water [(leetcode)](https://leetcode.com/problems/trapping-rain-water)🌀
   ### Условие:  
   
   <img src="tasks/82.png">  
 
   ### [Решение](two_pointers/trapping_rain_water/main.py)
 
-## 83. Two Sum II - Input Array Is Sorted [(leetcode)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+## 83. Two Sum II - Input Array Is Sorted [(leetcode)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)🌀
   ### Условие:  
   
   <img src="tasks/83.png">  
@@ -631,14 +631,14 @@
   Other
 </a></h1>
 
-## 84. Find the Difference of Two Arrays [(leetcode)](https://leetcode.com/problems/find-the-difference-of-two-arrays)
+## 84. Find the Difference of Two Arrays [(leetcode)](https://leetcode.com/problems/find-the-difference-of-two-arrays)🌀
   ### Условие:  
   
   <img src="tasks/84.png">  
 
   ### [Решение](other/find_the_difference_of_two_arrays/main.py)
 
-## 85. Find the Prefix Common Array of Two Arrays [(leetcode)](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)
+## 85. Find the Prefix Common Array of Two Arrays [(leetcode)](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)🌀
   ### Условие:  
   
   <img src="tasks/85.png">  
