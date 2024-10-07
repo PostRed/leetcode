@@ -1,30 +1,24 @@
-from typing import (
-    List,
-)
-
-
 class Solution:
-    """
-    @param points: n points on a 2D plane
-    @return: if there is such a line parallel to y-axis that reflect the given points
-    """
-
-    def is_reflected(self, points: List[List[int]]) -> bool:
-        mapa = {}
+    def is_reflected(self, points) -> bool:
+        # отслеживание отклонения x-координат от линии отражения для каждой уникальной y-координаты.
+        dct = {}
+        # чтобы найти x координату оси
         points.sort()
         if len(points) % 2 == 1:
+            # Если количество точек нечетное, линия отражения будет находиться на x-координате средней точки.
             x = points[len(points) // 2][0]
         else:
+            # Если количество точек четное, линия будет находиться между двумя центральными точками.
             x = (points[len(points) // 2 - 1][0] + points[len(points) // 2][0]) / 2
+
         for el in points:
-            if el[1] in mapa.keys():
-                mapa[el[1]] += el[0] - x
+            if el[1] in dct:
+                # если y-координата в словаре - прибавляем разницу между x координатой и осью симметрии
+                dct[el[1]] += el[0] - x
             else:
-                mapa[el[1]] = el[0] - x
-            if mapa[el[1]] == 0:
-                mapa.pop(el[1])
-        return len(mapa) == 0
-
-
-c = Solution()
-print(c.is_reflected([[1, 1], [-1, -1]]))
+                dct[el[1]] = el[0] - x
+            # если суммарная разница между x с одинаковыми y = 0 - не учитываем
+            if dct[el[1]] == 0:
+                dct.pop(el[1])
+        # если суммы разных x дают одинаковое значение - то у них разные y
+        return len(dct) == 0
