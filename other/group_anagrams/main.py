@@ -1,18 +1,14 @@
-from typing import List
-
-
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dict = {}
-        ans = []
+class Solution(object):
+    def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        dct = {}
         for el in strs:
-            key = ''.join(sorted(list(el)))
-            if key in dict:
-                dict[key].append(el)
+            k = ''.join(sorted(list(el)))
+            if k in dct:
+                dct[k].append(el)
             else:
-                dict[key] = [el]
-        for key in dict:
-            ans.append(dict[key])
-        return ans
-
-print(Solution().groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
+                dct[k] = [el]
+        return list(dct.values())
