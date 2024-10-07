@@ -1,9 +1,10 @@
 class Solution(object):
     def intToRoman(self, num):
         """
-        :type vals: int
+        :type num: int
         :rtype: str
         """
+        # Записываем еще числа, которые начинаются на 4 и 9, так они состоят из 2х символов
         val = [
             1000, 900, 500, 400,
             100, 90, 50, 40,
@@ -16,13 +17,11 @@ class Solution(object):
             "X", "IX", "V", "IV",
             "I"
         ]
-
-        roman_numeral = ""
+        res = ''
         i = 0
         while num > 0:
-            # Добавляем каждое значение нужно количество раз
             for _ in range(num // val[i]):
-                roman_numeral += syms[i]
+                res += syms[i]
                 num -= val[i]
             i += 1
-        return roman_numeral
+        return res
