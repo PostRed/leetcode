@@ -645,56 +645,56 @@
 
   ### [Решение](other/find_the_prefix_common_array_of_two_arrays/main.py)
 
-## 86. Generate Parentheses [(leetcode)](https://leetcode.com/problems/generate-parentheses)🌀
+## 86. Generate Parentheses [(leetcode)](https://leetcode.com/problems/generate-parentheses)✅
   ### Условие:  
   
   <img src="tasks/86.png">  
 
   ### [Решение](other/generate_parentheses/main.py)
 
-## 87. Group Anagrams [(leetcode)](https://leetcode.com/problems/group-anagrams)🌀
+## 87. Group Anagrams [(leetcode)](https://leetcode.com/problems/group-anagrams)✅
   ### Условие:  
   
   <img src="tasks/87.png">  
 
   ### [Решение](other/group_anagrams/main.py)
 
-## 88. Integer to Roman [(leetcode)](https://leetcode.com/problems/integer-to-roman)🌀
+## 88. Integer to Roman [(leetcode)](https://leetcode.com/problems/integer-to-roman)✅
   ### Условие:  
   
   <img src="tasks/88.png">  
 
   ### [Решение](other/integer_to_roman/main.py)
 
-## 89. Intersection of Two Arrays II [(leetcode)](https://leetcode.com/problems/intersection-of-two-arrays-ii)🌀
+## 89. Intersection of Two Arrays II [(leetcode)](https://leetcode.com/problems/intersection-of-two-arrays-ii)✅
   ### Условие:  
   
   <img src="tasks/89.png">  
 
   ### [Решение](other/intersection_of_two_arrays_II/main.py)
 
-## 90. Interval List Intersections [(leetcode)](https://leetcode.com/problems/interval-list-intersections)
+## 90. Interval List Intersections [(leetcode)](https://leetcode.com/problems/interval-list-intersections)🌀
   ### Условие:  
   
   <img src="tasks/90.png">  
 
   ### [Решение](other/interval_list_intersections/main.py)
 
-## 91. Jewels and Stones [(leetcode)](https://leetcode.com/problems/jewels-and-stones)
+## 91. Jewels and Stones [(leetcode)](https://leetcode.com/problems/jewels-and-stones)🌀
   ### Условие:  
   
   <img src="tasks/91.png">  
 
   ### [Решение](other/jewels_and_stones/main.py)
 
-## 92. Line Reflection [(leetcode)](https://leetcode.com/problems/line-reflection)
+## 92. Line Reflection [(leetcode)](https://leetcode.com/problems/line-reflection)🌀
   ### Условие:  
   
   <img src="tasks/92.png">  
 
   ### [Решение](other/line_reflection/main.py)
 
-## 93. Matrix Diagonal Sum [(leetcode)](https://leetcode.com/problems/matrix-diagonal-sum)
+## 93. Matrix Diagonal Sum [(leetcode)](https://leetcode.com/problems/matrix-diagonal-sum)🌀
   ### Условие:  
   
   <img src="tasks/93.png">  
