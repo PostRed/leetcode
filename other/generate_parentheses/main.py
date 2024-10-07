@@ -1,29 +1,24 @@
-from typing import List
-
-
-class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
-
-        runningStack = []
-        validParentheses = []
-
-        def backtrack(openBracketCount, closeBracketCount):
-            if openBracketCount == closeBracketCount == n:
-                validParentheses.append("".join(runningStack))
+class Solution(object):
+    def generateParenthesis(self, n):
+        """
+        :type n: int
+        :rtype: List[str]
+        """
+        stack, res = [], []
+        def recursion(open, close):
+            print(open, close)
+            if open == close and open == n:
+                res.append(''.join(stack))
                 return
+            if open < n:
+                stack.append('(')
+                recursion(open + 1, close)
+                stack.pop()
+            if close < open:
 
-            if openBracketCount < n:
-                runningStack.append("(")
-                backtrack(openBracketCount + 1, closeBracketCount)
-                runningStack.pop()
+                stack.append(')')
+                recursion(open, close + 1)
+                stack.pop()
 
-            if closeBracketCount < openBracketCount:
-                runningStack.append(")")
-                backtrack(openBracketCount, closeBracketCount + 1)
-                runningStack.pop()
-
-        backtrack(0, 0)
-        return validParentheses
-
-s = Solution()
-print(s.generateParenthesis(3))
+        recursion(0, 0)
+        return res
