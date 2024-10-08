@@ -5,6 +5,7 @@ class Solution:
         # меньшее из концов
         high = min(i1[1], i2[1])
         if low > high:
+            # это важно, так как до меньшего конца пересечений нет
             return [high]
         return [low, high]
 
