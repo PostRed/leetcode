@@ -22,10 +22,12 @@ class Solution:
         if len(intervals) <= 1:
             return len(intervals)
         intervals = sorted(intervals)
+        # храним концы встреч
         rooms = [[intervals[0][1]]]
         for i in range(1, len(intervals)):
             need_new = True
             for room in rooms:
+                # если комната освобождается не позже конца интеревала
                 if intervals[i][1] >= room[-1]:
                     room.append(intervals[i][1])
                     need_new = False
