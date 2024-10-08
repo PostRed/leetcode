@@ -27,7 +27,7 @@ class Solution:
         for i in range(1, len(intervals)):
             need_new = True
             for room in rooms:
-                # если комната освобождается не позже конца интеревала
+                # если комната освобождается не позже конца интеревала (как будето бы тут должно быть начало)
                 if intervals[i][1] >= room[-1]:
                     room.append(intervals[i][1])
                     need_new = False
