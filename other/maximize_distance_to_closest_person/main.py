@@ -10,6 +10,7 @@ class Solution:
         distance = seats.index(1)
         for seat in seats:
             if seat == 1:
+                # максимизируем расстояние от занимаемого места до занятых
                 ans = max(ans, math.ceil(distance / 2))
                 distance = 0
             else:
