@@ -673,28 +673,28 @@
 
   ### [Решение](other/intersection_of_two_arrays_II/main.py)
 
-## 90. Interval List Intersections [(leetcode)](https://leetcode.com/problems/interval-list-intersections)🌀
+## 90. Interval List Intersections [(leetcode)](https://leetcode.com/problems/interval-list-intersections)✅
   ### Условие:  
   
   <img src="tasks/90.png">  
 
   ### [Решение](other/interval_list_intersections/main.py)
 
-## 91. Jewels and Stones [(leetcode)](https://leetcode.com/problems/jewels-and-stones)🌀
+## 91. Jewels and Stones [(leetcode)](https://leetcode.com/problems/jewels-and-stones)✅
   ### Условие:  
   
   <img src="tasks/91.png">  
 
   ### [Решение](other/jewels_and_stones/main.py)
 
-## 92. Line Reflection [(leetcode)](https://leetcode.com/problems/line-reflection)🌀
+## 92. Line Reflection [(leetcode)](https://leetcode.com/problems/line-reflection)✅
   ### Условие:  
   
   <img src="tasks/92.png">  
 
   ### [Решение](other/line_reflection/main.py)
 
-## 93. Matrix Diagonal Sum [(leetcode)](https://leetcode.com/problems/matrix-diagonal-sum)🌀
+## 93. Matrix Diagonal Sum [(leetcode)](https://leetcode.com/problems/matrix-diagonal-sum)✅
   ### Условие:  
   
   <img src="tasks/93.png">  
@@ -736,7 +736,7 @@
 
   ### [Решение](other/merge_sorted_array/main.py)
 
-## 99. Missing Number [(leetcode)](https://leetcode.com/problems/missing-number)
+## 99. Missing Number [(leetcode)](https://leetcode.com/problems/missing-number)✅
   ### Условие:  
   
   <img src="tasks/99.png">  
