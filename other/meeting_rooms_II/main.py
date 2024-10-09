@@ -19,19 +19,16 @@ class Solution:
         return len(heap)
 
     def min_meeting_rooms_simple(self, intervals: List[List[int]]) -> int:
-        if len(intervals) <= 1:
+        if len(intervals) < 2:
             return len(intervals)
-        intervals = sorted(intervals)
-        # храним концы встреч
-        rooms = [[intervals[0][1]]]
+        intervals.sort()
+        rooms = [intervals[0][1]]
         for i in range(1, len(intervals)):
             need_new = True
-            for room in rooms:
-                # если комната освобождается не позже конца интеревала (как будето бы тут должно быть начало)
-                if intervals[i][1] >= room[-1]:
-                    room.append(intervals[i][1])
+            if intervals[i][1] >= rooms[-1]:
                     need_new = False
-                    break
             if need_new:
-                rooms.append([intervals[i][1]])
+                rooms.append(intervals[i][1])
         return len(rooms)
+
+
