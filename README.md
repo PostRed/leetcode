@@ -701,35 +701,35 @@
 
   ### [Решение](other/matrix_diagonal_sum/main.py)
 
-## 94. Maximize Distance to Closest Person [(leetcode)](https://leetcode.com/problems/maximize-distance-to-closest-person)
+## 94. Maximize Distance to Closest Person [(leetcode)](https://leetcode.com/problems/maximize-distance-to-closest-person)✅
   ### Условие:  
   
   <img src="tasks/94.png">  
 
   ### [Решение](other/maximize_distance_to_closest_person/main.py)
 
-## 95. Meeting Rooms [(leetcode)](https://leetcode.com/problems/meeting-rooms)
+## 95. Meeting Rooms [(leetcode)](https://leetcode.com/problems/meeting-rooms)✅
   ### Условие:  
   
   <img src="tasks/95.png">  
 
   ### [Решение](other/meeting_rooms/main.py)
 
-## 96. Meeting Rooms II [(leetcode)](https://leetcode.com/problems/meeting-rooms-ii)
+## 96. Meeting Rooms II [(leetcode)](https://leetcode.com/problems/meeting-rooms-ii)✅
   ### Условие:  
   
   <img src="tasks/96.png">  
 
   ### [Решение](other/meeting_rooms_II/main.py)
 
-## 97. Merge Intervals [(leetcode)](https://leetcode.com/problems/merge-intervals)
+## 97. Merge Intervals [(leetcode)](https://leetcode.com/problems/merge-intervals)✅
   ### Условие:  
   
   <img src="tasks/97.png">  
 
   ### [Решение](other/merge_intervals/main.py)
 
-## 98. Merge Sorted Array [(leetcode)](https://leetcode.com/problems/merge-sorted-array)
+## 98. Merge Sorted Array [(leetcode)](https://leetcode.com/problems/merge-sorted-array)🌀
   ### Условие:  
   
   <img src="tasks/98.png">  
@@ -743,21 +743,21 @@
 
   ### [Решение](other/missing_number/main.py)
 
-## 100. Move Zeroes [(leetcode)](https://leetcode.com/problems/move-zeroes)
+## 100. Move Zeroes [(leetcode)](https://leetcode.com/problems/move-zeroes)🌀
   ### Условие:  
   
   <img src="tasks/100.png">  
 
   ### [Решение](other/move_zeroes/main.py)
 
-## 101. Number of Students Doing Homework at a Given Time [(leetcode)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)
+## 101. Number of Students Doing Homework at a Given Time [(leetcode)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)🌀
   ### Условие:  
   
   <img src="tasks/101.png">  
 
   ### [Решение](other/number_of_students_doing_homework_at_a_given_time/main.py)
 
-## 102. Perfect Squares [(leetcode)](https://leetcode.com/problems/perfect-squares)
+## 102. Perfect Squares [(leetcode)](https://leetcode.com/problems/perfect-squares)🌀
   ### Условие:  
   
   <img src="tasks/102.png">  
