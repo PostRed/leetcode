@@ -729,7 +729,7 @@
 
   ### [Решение](other/merge_intervals/main.py)
 
-## 98. Merge Sorted Array [(leetcode)](https://leetcode.com/problems/merge-sorted-array)🌀
+## 98. Merge Sorted Array [(leetcode)](https://leetcode.com/problems/merge-sorted-array)✅
   ### Условие:  
   
   <img src="tasks/98.png">  
@@ -743,21 +743,21 @@
 
   ### [Решение](other/missing_number/main.py)
 
-## 100. Move Zeroes [(leetcode)](https://leetcode.com/problems/move-zeroes)🌀
+## 100. Move Zeroes [(leetcode)](https://leetcode.com/problems/move-zeroes)✅
   ### Условие:  
   
   <img src="tasks/100.png">  
 
   ### [Решение](other/move_zeroes/main.py)
 
-## 101. Number of Students Doing Homework at a Given Time [(leetcode)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)🌀
+## 101. Number of Students Doing Homework at a Given Time [(leetcode)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)✅
   ### Условие:  
   
   <img src="tasks/101.png">  
 
   ### [Решение](other/number_of_students_doing_homework_at_a_given_time/main.py)
 
-## 102. Perfect Squares [(leetcode)](https://leetcode.com/problems/perfect-squares)🌀
+## 102. Perfect Squares [(leetcode)](https://leetcode.com/problems/perfect-squares)✅
   ### Условие:  
   
   <img src="tasks/102.png">  
