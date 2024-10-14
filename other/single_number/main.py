@@ -5,6 +5,6 @@ class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         ans = 0
         for el in nums:
-            # исключающее или
+            # исключающее или, для одинаковых чисел будет давать ноль
             ans ^= el
         return ans
