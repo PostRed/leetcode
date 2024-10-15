@@ -771,21 +771,21 @@
 
   ### [Решение](other/roman_to_integer/main.py)
 
-## 104. Rotate Image [(leetcode)](https://leetcode.com/problems/rotate-image)🌀
+## 104. Rotate Image [(leetcode)](https://leetcode.com/problems/rotate-image)✅
   ### Условие:  
   
   <img src="tasks/104.png">  
 
   ### [Решение](other/rotate_image/main.py)
 
-## 105. Single Number [(leetcode)](https://leetcode.com/problems/single-number)🌀
+## 105. Single Number [(leetcode)](https://leetcode.com/problems/single-number)✅
   ### Условие:  
   
   <img src="tasks/105.png">  
 
   ### [Решение](other/single_number/main.py)
 
-## 106. Spiral Matrix II [(leetcode)](https://leetcode.com/problems/spiral-matrix-ii)🌀
+## 106. Spiral Matrix II [(leetcode)](https://leetcode.com/problems/spiral-matrix-ii)✅
   ### Условие:  
   
   <img src="tasks/106.png">  
@@ -806,7 +806,7 @@
 
   ### [Решение](other/top_k_frequent_words/main.py)
 
-## 109. Two Sum [(leetcode)](https://leetcode.com/problems/two-sum)🌀
+## 109. Two Sum [(leetcode)](https://leetcode.com/problems/two-sum)✅
   ### Условие:  
   
   <img src="tasks/109.png">  
