@@ -764,7 +764,7 @@
 
   ### [Решение](other/perfect_squares/main.py)
 
-## 103. Roman to Integer [(leetcode)](https://leetcode.com/problems/roman-to-integer)
+## 103. Roman to Integer [(leetcode)](https://leetcode.com/problems/roman-to-integer)🌀
   ### Условие:  
   
   <img src="tasks/103.png">  
@@ -792,14 +792,14 @@
 
   ### [Решение](other/spiral_matrix/main.py)
 
-## 107. Top K Frequent Elements [(leetcode)](https://leetcode.com/problems/top-k-frequent-elements)
+## 107. Top K Frequent Elements [(leetcode)](https://leetcode.com/problems/top-k-frequent-elements)🌀
   ### Условие:  
   
   <img src="tasks/107.png">  
 
   ### [Решение](other/top_k_frequent_elements/main.py)
 
-## 108. Top K Frequent Words [(leetcode)](https://leetcode.com/problems/top-k-frequent-words)
+## 108. Top K Frequent Words [(leetcode)](https://leetcode.com/problems/top-k-frequent-words)🌀
   ### Условие:  
   
   <img src="tasks/108.png">  
